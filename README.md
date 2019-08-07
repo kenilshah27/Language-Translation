@@ -9,6 +9,7 @@ I have implemented three models.
 Links:
 
 1. Seq2Seq
+    
     https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
     https://towardsdatascience.com/word-level-english-to-marathi-neural-machine-translation-using-seq2seq-encoder-decoder-lstm-model-1a913f2dc4a7
     Dataset : http://www.manythings.org/anki/
