@@ -35,3 +35,8 @@ Links:
    https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
    
    Dataset : http://www.manythings.org/anki/
+   
+
+Note:
+
+     For all of this models i ran it on Google colab with GPU. I have used very less data and hence the result might not be as expected. But with larget dataset and more epochs, you can simply run this codes to get a good accuracy.
